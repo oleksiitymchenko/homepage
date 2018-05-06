@@ -1,0 +1,10 @@
+@media (max-device-width: 723) {
+    div[class="ui container segment"] {
+        padding: "0%";
+    }
+    img[class="ui medium circular image"] {
+        width: 100%;
+        align-self: stretch;
+        float: left;
+    }
+}
